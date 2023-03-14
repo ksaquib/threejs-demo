@@ -1,33 +1,19 @@
-# Project Name
+# Threejs Demo
 
-[Description of your project goes here.]
+This project is for learning purpose of threejs basic development
 
 ## Getting Started
 
-[Instructions on how to get a copy of your project up and running on a local machine.]
+You can clone or download the zip to get the project and then run npm install. after that run index.html
 
 ### Prerequisites
 
-[List any software or packages required to run the project.]
-
+Threejs and gsap for animation
 ## Usage
 
-[Instructions on how to use the project.]
-
+hold your mouse button to change the color of the sphere again and again on different positions of page
 ## Screenshots
 
-![Screenshot 1](/path/to/image1.png)
+![Screenshot 1](main.png)
 
-![Screenshot 2](/path/to/image2.png)
-
-## Demo
-
-![Demo](/path/to/demo.gif)
-
-## Contributing
-
-[Instructions on how to contribute to the project.]
-
-## License
-
-[Choose a license for your project.]
+![Screenshot 2](main2.png)
